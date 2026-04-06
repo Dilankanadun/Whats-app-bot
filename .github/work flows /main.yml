@@ -1,0 +1,39 @@
+이이
+shamodoreli
+‹> Code
+Issues
+WB-shamod / •g
+Edit Preview
+1 Enter file conte
+! main.yml ~
+name:
+MEDUSA advertising-WhatsApp-Bot
+on:
+workflow_dispatch:
+schedule:
+- cron: '0 */5 **** jobs:
+build:
+runs-on: ubuntu-latest steps:
+- name: Checkout Code
+uses: actions/checkout@v4
+- name: Setup Node.js
+uses: actions/setup-node@v4 with:
+node-version: '20'
+- name: Install Dependencies
+run: npm install
+nod Firezz YouTube
+- name: Start AI Bot
+FIREBASE_URL: ${{ secrets.FIREBASE_URL }}
+run: npm start
+Q Type 7) to search
+®
+十、
+日
+…
+凸
+...
+!
+main.yml
+od
+Firezz Y
+U vocuments
